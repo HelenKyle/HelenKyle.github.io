@@ -54,18 +54,17 @@ This works for public files without any API key.
 
 ## Sheet Schema
 
-Elena fills in the following columns (order matters):
+Elena fills in the following columns (order matters). Column names and descriptions are in Italian for Elena's reference:
 
-| Column | Field | Description |
+| Colonna | Campo | Descrizione |
 |---|---|---|
-| A | `title` | Artwork title |
-| B | `year` | Year created |
-| C | `medium` | e.g. "Oil on canvas" |
-| D | `dimensions` | e.g. "50×70 cm" |
-| E | `description` | Short description (optional) |
-| F | `category` | e.g. "Painting", "Drawing", "Digital" |
-| G | `driveLink` | Google Drive shareable link for the image |
-| H | `featured` | `true` to pin on the home page |
+| A | `titolo` | Titolo dell'opera |
+| B | `anno` | Anno di creazione |
+| C | `tecnica` | Es. "Olio su tela" |
+| D | `descrizione` | Breve descrizione (opzionale) |
+| E | `categoria` | Es. "Pittura", "Disegno", "Digitale" |
+| F | `immagine` | Nome del file in `public/artworks/` (es. `painting.jpg`) |
+| G | `inEvidenza` | Scrivi `true` per metterla in primo piano |
 
 ---
 

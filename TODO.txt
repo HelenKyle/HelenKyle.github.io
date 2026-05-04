@@ -1,0 +1,4 @@
+the images currently all crop to fit the same aspect ratio
+
+description is cut off if too long
+
