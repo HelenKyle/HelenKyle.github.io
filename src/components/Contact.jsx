@@ -4,18 +4,11 @@ export default function Contact() {
       <div className="container">
         <p className="section-label">Get in touch</p>
         <h2 className="section-title">Contact</h2>
-        <p className="contact-intro">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Interested in acquiring a work, collaborating, or simply connecting?
-          All enquiries are welcome.
-        </p>
         <a className="contact-email" href="mailto:studio@elenabandinelli.com">
-          studio@elenabandinelli.com
+          bandinelliheleni@gmail.com
         </a>
         <div className="contact-socials">
-          <a className="contact-social-link" href="#">Instagram</a>
-          <a className="contact-social-link" href="#">LinkedIn</a>
-          <a className="contact-social-link" href="#">Behance</a>
+          <a className="contact-social-link" href="https://www.linkedin.com/in/elena-bandinelli-14b683323/">LinkedIn</a>
         </div>
       </div>
     </section>

@@ -6,8 +6,7 @@ export default function Hero() {
         Elena<br /><em>Bandinelli</em>
       </h1>
       <p className="hero-tagline">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Ars longa, vita brevis — creating works that speak where words cannot.
+          Laureata in arti decorative. Ho proseguito i miei studi in Character Design. Su questo sito sono esposte le opere che ho creato durante il mio percorso. <br/>Info e contatti sono in fondo alla pagina.
       </p>
       <div className="hero-scroll" aria-hidden="true">
         <span>Scroll</span>

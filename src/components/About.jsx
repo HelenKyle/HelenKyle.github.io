@@ -12,28 +12,23 @@ export default function About() {
             <p className="section-label">About</p>
             <h2 className="section-title">The Artist</h2>
             <p className="about-bio">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat.
+              Fin da bambina mi è sempre piaciuto disegnare. Mi divertivo a disegnare i personaggi Disney o Pokémon che vedevo alla TV, 
+              e mi divertivo anche a disegnare i ragazzi più grandi di me. Ho capito che disegnare era la mia passione, 
+              quindi ho deciso di intraprendere un percorso universitario all'Accademia di Belle Arti di Firenze. 
+              Successivamente ho continuato a disegnare come hobby, e con corsi online alla Digital Bros Academy e Talent Form.
+
             </p>
             <p className="about-bio">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-              eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              Animazione, videogiochi e fumetti mi hanno sempre accompagnato durante la mia vita, e vorrei che diventassero la mia professione.
             </p>
             <div className="about-details">
               <div className="about-detail">
                 <span className="about-detail-label">Based in</span>
-                <span>Lorem Ipsum, Italy</span>
+                <span>Firenze, Italy</span>
               </div>
               <div className="about-detail">
                 <span className="about-detail-label">Education</span>
-                <span>Accademia di Belle Arti, Lorem Ipsum, 20XX</span>
-              </div>
-              <div className="about-detail">
-                <span className="about-detail-label">Medium</span>
-                <span>Oil, Watercolour, Mixed Media</span>
+                <span>Accademia di Belle Arti, Laurea triennale, 2020</span>
               </div>
             </div>
           </div>
